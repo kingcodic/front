@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76.94 32.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0e83ad;
+        stroke-width: .75px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #1083ad;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: AlfredDrake, AlfredDrake;
+        font-size: 12.2px;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        opacity: .05;
+      }
+
+      .cls-2 {
+        stroke-width: .09px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke-width: .21px;
+      }
+
+      .cls-4 {
+        stroke-width: .09px;
+      }
+
+      .cls-5 {
+        fill: #137fb8;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(7.64 21.05)"><tspan x="0" y="0">SMAHAR</tspan></text>
+      <text class="cls-3" transform="translate(7.57 20.34)"><tspan x="0" y="0">SMAHAR</tspan></text>
+      <g class="cls-6">
+        <polygon class="cls-5" points="16.09 4.77 17.16 7.19 17.86 4.05 16.09 4.77"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="71.36 24.09 66.84 18.03 73.37 19.66 69.31 19.8 71.36 24.09"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="39.84 5.33 35.6 8.23 36.2 3.63 36.64 6.61 39.84 5.33"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="37.16 24.73 35.86 29.42 37.09 28.64 38.47 30.3 37.16 24.73"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="52.59 25.8 53.29 22.42 54.81 27.04 52.59 25.8"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="53.9 22.7 54.98 25.17 59.21 24.3 53.9 22.7"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="60.34 5.41 57.58 8 61.92 6.07 60.34 5.41"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="57.59 7.67 58.14 3.97 59.61 4.98 57.59 7.67"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="6.37 16.5 1.48 12.85 4.81 12.72 6.37 16.5"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="16.63 7.58 10.84 4.72 14.06 4.11 16.63 7.58"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="1.49 14.86 5.91 17.04 3.53 17.86 1.49 14.86"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="14.27 25.53 15.88 22.99 16.25 26.43 14.27 25.53"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="17.39 27.93 16.41 23.48 18.49 26.17 17.39 27.93"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="36.08 24.95 34.5 26.34 35.32 26.66 36.08 24.95"/>
+      </g>
+      <g class="cls-6">
+        <polygon class="cls-5" points="38.03 25.15 38.27 27.03 39.03 26.81 38.03 25.15"/>
+      </g>
+      <g>
+        <polyline class="cls-2" points="44.83 9.57 45.08 9.31 45.34 9.57"/>
+        <polyline class="cls-2" points="45.34 6.18 45.08 6.44 44.83 6.18"/>
+        <path class="cls-2" d="M45.08,7.27c0-.45,0-.68,0-1.14"/>
+        <path class="cls-2" d="M45.08,9.62c0-.63,0-.49,0-1.12"/>
+        <polyline class="cls-2" points="46.78 8.13 46.52 7.88 46.78 7.62"/>
+        <polyline class="cls-2" points="43.39 7.62 43.65 7.88 43.39 8.13"/>
+        <path class="cls-2" d="M44.48,7.88c-.64,0-.5,0-1.14,0"/>
+        <path class="cls-2" d="M46.83,7.88c-.44,0-.68,0-1.12,0"/>
+        <polyline class="cls-2" points="44.83 9.27 45.08 9.02 45.34 9.27"/>
+        <polyline class="cls-2" points="45.34 6.48 45.08 6.73 44.83 6.48"/>
+        <polyline class="cls-2" points="46.48 8.13 46.22 7.88 46.48 7.62"/>
+        <polyline class="cls-2" points="43.69 7.62 43.94 7.88 43.69 8.13"/>
+        <polyline class="cls-2" points="46.16 9.31 46.16 8.95 46.52 8.95"/>
+        <polyline class="cls-2" points="44.01 6.44 44.01 6.8 43.65 6.8"/>
+        <path class="cls-2" d="M44.77,7.57c-.45-.46-.52-.52-.98-.98"/>
+        <path class="cls-2" d="M46.37,9.16c-.35-.35-.63-.63-.98-.98"/>
+        <polyline class="cls-2" points="46.52 6.8 46.16 6.8 46.16 6.44"/>
+        <polyline class="cls-2" points="43.65 8.95 44.01 8.95 44.01 9.31"/>
+        <path class="cls-2" d="M44.77,8.19c-.47.46-.51.52-.98.98"/>
+        <path class="cls-2" d="M46.37,6.59c-.34.34-.63.62-.97.97"/>
+        <polyline class="cls-2" points="45.95 9.1 45.95 8.74 46.31 8.74"/>
+        <polyline class="cls-2" points="44.22 6.65 44.22 7.01 43.86 7.01"/>
+        <polyline class="cls-2" points="46.31 7.01 45.95 7.01 45.95 6.65"/>
+        <polyline class="cls-2" points="43.86 8.74 44.22 8.74 44.22 9.1"/>
+        <rect class="cls-2" x="44.65" y="7.44" width=".87" height=".87" transform="translate(7.64 34.19) rotate(-45)"/>
+        <rect class="cls-2" x="44.94" y="7.73" width=".29" height=".29" transform="translate(7.64 34.19) rotate(-45)"/>
+      </g>
+      <g>
+        <polyline class="cls-4" points="24.73 23.61 24.49 23.86 24.24 23.61"/>
+        <polyline class="cls-4" points="24.24 26.59 24.49 26.34 24.73 26.59"/>
+        <path class="cls-4" d="M24.49,25.79q0,.49,0,.97"/>
+        <path class="cls-4" d="M24.49,23.43q0,.49,0,.98"/>
+        <polyline class="cls-4" points="23 24.85 23.24 25.1 23 25.35"/>
+        <polyline class="cls-4" points="25.97 25.35 25.73 25.1 25.97 24.85"/>
+        <path class="cls-4" d="M25.18,25.1q.49,0,.97,0"/>
+        <path class="cls-4" d="M22.82,25.1q.49,0,.98,0"/>
+        <polygon class="cls-4" points="25.19 25.1 24.86 25.26 24.98 25.6 24.64 25.48 24.49 25.8 24.33 25.48 23.99 25.6 24.11 25.26 23.78 25.1 24.11 24.94 23.99 24.6 24.33 24.72 24.49 24.39 24.64 24.72 24.98 24.6 24.86 24.94 25.19 25.1"/>
+        <polyline class="cls-4" points="23.61 23.87 23.61 24.22 23.26 24.22"/>
+        <polyline class="cls-4" points="25.36 26.33 25.36 25.98 25.71 25.98"/>
+        <path class="cls-4" d="M24.98,25.59q.34.34.69.69"/>
+        <path class="cls-4" d="M23.31,23.92q.34.34.69.69"/>
+        <polyline class="cls-4" points="23.26 25.98 23.61 25.98 23.61 26.33"/>
+        <polyline class="cls-4" points="25.71 24.22 25.36 24.22 25.36 23.87"/>
+        <path class="cls-4" d="M24.98,24.61q.34-.34.69-.69"/>
+        <path class="cls-4" d="M23.31,26.28q.34-.34.69-.69"/>
+        <polyline class="cls-4" points="25.76 25.35 25.51 25.1 25.76 24.85"/>
+        <polyline class="cls-4" points="23.21 24.85 23.46 25.1 23.21 25.35"/>
+        <polyline class="cls-4" points="24.73 23.83 24.49 24.07 24.24 23.83"/>
+        <polyline class="cls-4" points="24.24 26.37 24.49 26.12 24.73 26.37"/>
+      </g>
+    </g>
+  </g>
+</svg>
